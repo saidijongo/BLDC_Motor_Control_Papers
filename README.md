@@ -11,3 +11,5 @@ https://github.com/rpasichnyk/vesc_tool/releases/tag/v1.08
 https://github.com/rpasichnyk/bldc-tool
 
 https://topeparts.com/what-ebike-protocol-is-for-lcd-display/
+
+https://pastebin.com/u/phillip_bourdon234/1/A5NtUNFf
