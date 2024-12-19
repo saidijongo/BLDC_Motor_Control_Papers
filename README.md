@@ -12,4 +12,6 @@ https://github.com/rpasichnyk/bldc-tool
 
 https://topeparts.com/what-ebike-protocol-is-for-lcd-display/
 
+https://www.st.com/resource/en/user_manual/um1718-stm32cubemx-for-stm32-configuration-and-initialization-c-code-generation-stmicroelectronics.pdf
+
 https://pastebin.com/u/phillip_bourdon234/1/A5NtUNFf
