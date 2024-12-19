@@ -7,3 +7,5 @@ https://community.simplefoc.com/t/drv8323s-breakout-board-attempt-2-requests-for
 
 https://vesc-project.com/node/309
 https://github.com/rpasichnyk/vesc_tool/releases/tag/v1.08
+
+https://github.com/rpasichnyk/bldc-tool
